@@ -1,11 +1,8 @@
 # Swipe cards 
 
 ### Demo
-<video width="320" height="240" controls autoplay>
-  <source src="attachments/demo.mp4" type="video/mp4">
-  <source src="attachments/demo.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
+<image src="attachments/demo.gif"/>
+
 
 ### Flutter Doctor
 ``` dart
