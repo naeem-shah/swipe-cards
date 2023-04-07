@@ -24,7 +24,7 @@ class _MyHomePageState extends State<HomePage> {
       SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle.light.copyWith(
         statusBarColor: Colors.white,
       ));
-      SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
+      SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
         // systemNavigationBarColor: Colors.transparent,
           statusBarColor: Colors.transparent,
           statusBarIconBrightness: Brightness.light
@@ -33,7 +33,7 @@ class _MyHomePageState extends State<HomePage> {
       SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle.dark.copyWith(
         statusBarColor: Colors.black,
       ));
-      SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
+      SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
         // systemNavigationBarColor: Colors.transparent,
         statusBarColor: Colors.transparent,
         statusBarIconBrightness: Brightness.dark
