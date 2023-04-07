@@ -1,7 +1,7 @@
 # Swipe cards 
 
 ### Demo
-<image src="attachments/demo.gif"/>
+<image src="attachments/demo.gif" height="550px">
 
 
 ### Flutter Doctor
